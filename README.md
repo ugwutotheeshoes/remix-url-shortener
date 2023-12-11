@@ -1,2 +1,2 @@
-# quiz-app
- Quiz app built with Appwrite and Remix
+# Remix URL Shortener
+This is a URL Shortener built with Remix and Appwrite function template - URL Shortener
